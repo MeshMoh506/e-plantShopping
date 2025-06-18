@@ -38,6 +38,16 @@ body {
     text-decoration: none;
    
 }
+.IMGGreen{
+border-radius: 50%;
+width: 90px;
+padding-right: 15px;
+}
+
+.CategoryStyle{
+    padding-left: 15px;
+}
+
 
 /* Product Grid */
 .product-grid {
